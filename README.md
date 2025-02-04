@@ -17,6 +17,6 @@ Aplikacja do głosowania na przekąski to interaktywna platforma, która pozwala
 - **Docker**: Używany do łatwego wdrażania aplikacji w kontenerach.
 
 Jak uruchomić:
-1.
-2.
-3.
+1. cd C:\Users\Ten Komputer\Desktop\snack-voting-app
+2. pip install -r requirements.txt
+3. docker-compose up --build
